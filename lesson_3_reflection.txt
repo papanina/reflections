@@ -2,3 +2,5 @@ When would you want to use a remote repository rather than keeping all your work
   для работы вне основного компа. для сохранения форкфлоу
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   к примеру если репозиторий используется в продакшне. может для этого есть и другие средства...
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  fork - клон репозитория с гитхаба, clones - клон репозитория либо с гитхаба либо с локали, branch - отдельная ветка коммитов
